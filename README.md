@@ -1,4 +1,4 @@
 # Sem-foro-Teste-
 Semáforo Teste
 
-<img src=".png">
+<img src="Shiny Elzing.png">
